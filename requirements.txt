@@ -1,0 +1,9 @@
+librosa
+streamlit
+pandas
+numpy
+os
+csv
+matplotlib.pyplot
+keras
+sklearn
